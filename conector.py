@@ -148,4 +148,6 @@ elif argv[1] == "client":
         print("Argumentos erroneos")
 
 else:
-    print("Argumentos erroneos")
+    print("Engel gay")
+    
+    
